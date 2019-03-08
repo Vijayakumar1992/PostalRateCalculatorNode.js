@@ -1,0 +1,16 @@
+{
+    "name": "cs313-19w-09-rock",
+    "version": "1.0.0",
+    "description": "Postal Rate Calculator",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "David",
+    "license": "ISC",
+    "dependencies": {
+      "ejs": "^2.6.1",
+      "express": "^4.16.4"
+    }
+  }
